@@ -209,4 +209,4 @@ DELETE /api/tasks/:id
 
 # Author
 
-Made by Dhanish Singh 🚀
+Made by Dhanish Singh 
